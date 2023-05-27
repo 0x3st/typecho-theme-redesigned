@@ -1,0 +1,36 @@
+.kuang{
+    background-color:white;
+    border:solid 1px black;
+    margin-bottom:35px;
+}
+
+.wenzhang{
+    padding: 12px 20px 12px 20px;
+}
+
+.full{
+    position:absolute; 
+    left:0;
+    right:0;
+    top:50px;
+    width: 61.8%;
+    margin: 1% auto; 
+    z-index:100;
+}
+
+.sidebar{
+    background-color:white;
+    border:solid 1px black;
+    margin-bottom:35px;
+}
+
+.header{
+    font-size:20;
+    padding: 9px 0 8px 20px;
+}
+
+.backwords{
+    position:absolute;
+    z-index:10;
+    font-size:20px;
+}
