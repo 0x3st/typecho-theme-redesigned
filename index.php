@@ -4,7 +4,7 @@
  *
  * @package Redesigned
  * @author Shishishi
- * @version 1.0
+ * @version 2.0.0
  * @link https://nets.icu
  */
 
